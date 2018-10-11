@@ -67,7 +67,7 @@ from random import shuffle
 
 from keras.engine import Layer
 
-OS = "WINDOWS" #LINUX
+OS = 'LINUX'
 
 
 def focal_loss(y_true, y_pred):
